@@ -1,0 +1,116 @@
+Language,Country (English),Country (Chinese),Country Code
+English,United States,美国,USA
+English,United Kingdom,英国,GBR
+English,Canada,加拿大,CAN
+English,Australia,澳大利亚,AUS
+English,Nigeria,尼日利亚,NGA
+English,South Africa,南非,ZAF
+English,Kenya,肯尼亚,KEN
+English,Ghana,加纳,GHA
+English,Uganda,乌干达,UGA
+English,Tanzania,坦桑尼亚,TZA
+English,India,印度,IND
+English,Pakistan,巴基斯坦,PAK
+English,Philippines,菲律宾,PHL
+English,Malaysia,马来西亚,MYS
+English,New Zealand,新西兰,NZL
+English,Ireland,爱尔兰,IRL
+Mandarin,China,中国,CHN
+Mandarin,Singapore,新加坡,SGP
+Mandarin,Malaysia,马来西亚,MYS
+Mandarin,Indonesia,印度尼西亚,IDN
+Spanish,Mexico,墨西哥,MEX
+Spanish,Spain,西班牙,ESP
+Spanish,Colombia,哥伦比亚,COL
+Spanish,Argentina,阿根廷,ARG
+Spanish,Peru,秘鲁,PER
+Spanish,Venezuela,委内瑞拉,VEN
+Spanish,Chile,智利,CHL
+Spanish,Ecuador,厄瓜多尔,ECU
+Spanish,Guatemala,危地马拉,GTM
+Spanish,Cuba,古巴,CUB
+Spanish,Bolivia,玻利维亚,BOL
+Spanish,Dominican Republic,多米尼加共和国,DOM
+Spanish,Honduras,洪都拉斯,HND
+Spanish,Paraguay,巴拉圭,PRY
+Spanish,El Salvador,萨尔瓦多,SLV
+Spanish,Nicaragua,尼加拉瓜,NIC
+Spanish,Costa Rica,哥斯达黎加,CRI
+Spanish,Panama,巴拿马,PAN
+Spanish,Uruguay,乌拉圭,URY
+Spanish,Equatorial Guinea,赤道几内亚,GNQ
+Hindi,India,印度,IND
+Hindi,Nepal,尼泊尔,NPL
+Hindi,Mauritius,毛里求斯,MUS
+Hindi,Fiji,斐济,FJI
+Arabic,Egypt,埃及,EGY
+Arabic,Algeria,阿尔及利亚,DZA
+Arabic,Sudan,苏丹,SDN
+Arabic,Iraq,伊拉克,IRQ
+Arabic,Morocco,摩洛哥,MAR
+Arabic,Saudi Arabia,沙特阿拉伯,SAU
+Arabic,Yemen,也门,YEM
+Arabic,Syria,叙利亚,SYR
+Arabic,Tunisia,突尼斯,TUN
+Arabic,Jordan,约旦,JOR
+Arabic,United Arab Emirates,阿联酋,ARE
+Arabic,Lebanon,黎巴嫩,LBN
+Arabic,Libya,利比亚,LBY
+Arabic,Palestine,巴勒斯坦,PSE
+Arabic,Oman,阿曼,OMN
+Arabic,Kuwait,科威特,KWT
+Arabic,Qatar,卡塔尔,QAT
+Arabic,Bahrain,巴林,BHR
+Arabic,Comoros,科摩罗,COM
+Arabic,Djibouti,吉布提,DJI
+Arabic,Somalia,索马里,SOM
+Arabic,Mauritania,毛里塔尼亚,MRT
+French,France,法国,FRA
+French,Democratic Republic of the Congo,刚果（金）,COD
+French,Canada,加拿大,CAN
+French,Madagascar,马达加斯加,MDG
+French,Cameroon,喀麦隆,CMR
+French,Côte d'Ivoire,科特迪瓦,CIV
+French,Niger,尼日尔,NER
+French,Burkina Faso,布基纳法索,BFA
+French,Benin,贝宁,BEN
+French,Rwanda,卢旺达,RWA
+French,Belgium,比利时,BEL
+French,Senegal,塞内加尔,SEN
+French,Chad,乍得,TCD
+French,Switzerland,瑞士,CHE
+French,Haiti,海地,HTI
+French,Togo,多哥,TGO
+French,Central African Republic,中非共和国,CAF
+French,Republic of the Congo,刚果（布）,COG
+French,Gabon,加蓬,GAB
+French,Luxembourg,卢森堡,LUX
+French,Burundi,布隆迪,BDI
+French,Mali,马里,MLI
+French,Monaco,摩纳哥,MCO
+Bengali,Bangladesh,孟加拉国,BGD
+Bengali,India,印度,IND
+Portuguese,Brazil,巴西,BRA
+Portuguese,Portugal,葡萄牙,PRT
+Portuguese,Angola,安哥拉,AGO
+Portuguese,Mozambique,莫桑比克,MOZ
+Portuguese,Guinea-Bissau,几内亚比绍,GNB
+Portuguese,Cape Verde,佛得角,CPV
+Portuguese,São Tomé and Príncipe,圣多美和普林西比,STP
+Portuguese,Timor-Leste,东帝汶,TLS
+Russian,Russia,俄罗斯,RUS
+Russian,Ukraine,乌克兰,UKR
+Russian,Belarus,白俄罗斯,BLR
+Russian,Kazakhstan,哈萨克斯坦,KAZ
+Russian,Uzbekistan,乌兹别克斯坦,UZB
+Russian,Kyrgyzstan,吉尔吉斯斯坦,KGZ
+Russian,Latvia,拉脱维亚,LVA
+Russian,Estonia,爱沙尼亚,EST
+Russian,Lithuania,立陶宛,LTU
+Russian,Moldova,摩尔多瓦,MDA
+Russian,Armenia,亚美尼亚,ARM
+Russian,Georgia,格鲁吉亚,GEO
+Russian,Azerbaijan,阿塞拜疆,AZE
+Russian,Tajikistan,塔吉克斯坦,TJK
+Russian,Turkmenistan,土库曼斯坦,TKM
+Indonesian,Indonesia,印度尼西亚,IDN
